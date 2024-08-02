@@ -1,4 +1,3 @@
-# Not A Big Deal
+# Tweety-Py
 ## It scrapes tweets. 
-### It exports them to a csv file. 
-It's not a big deal.
+### It exports them to a csv file.
